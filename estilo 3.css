@@ -1,0 +1,27 @@
+body{
+    background-image: url(img/10855.jpg);
+    margin: 0;
+}
+h1{
+    color: peru;
+    text-align: center;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color: rebeccapurple;
+    text-align: center;   
+    font-size: 23px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+    border: #cccccc;
+    margin: auto;
+}
+.imagen:hover{
+    /*transform:rotate(30deg); */
+    transform: scale(1.2);      
+}
+

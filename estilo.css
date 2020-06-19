@@ -1,0 +1,43 @@
+body{
+    background-image:  url(img/10855.jpg);
+    margin: 0;
+}
+h1{
+    color: crimson;
+    text-align: center;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color:green;
+    text-align: center;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: blueviolet;   
+    text-align: center;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}    
+p{
+    color: aqua;
+    text-align: center;
+    font-size: 23px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+    border: #cccccc;
+    margin: auto;
+}
+.imagen{
+    width: 800;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+}
+.imagen:hover{
+    /* transform:rotate(30deg); */
+    transform: scale (1.2);
+}                    
